@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bSalpKrAXiw0uiXHBXkMC3OTkmmrKROlpZ1c+49OYCo=",
+  "Source": "FinaceiroAPI",
+  "BasePath": "_content/FinaceiroAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
